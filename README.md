@@ -24,10 +24,10 @@ Estou cursando Sistemas de Informações pelo Centro Universitário de Valença 
 <br>
 
 <div>
-
-### Tecnologias e Ferramentas 
-
 <img width="300px" align="right" src="https://i.ibb.co/Gv4mkqn/IMG-1469-removebg-preview.png">
+
+ ### Tecnologias e Ferramentas 
+
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <br>
@@ -39,7 +39,8 @@ Estou cursando Sistemas de Informações pelo Centro Universitário de Valença 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></code>
- <br>
+<br>
+ 
 ###  Mais sobre mim 
 
 
@@ -47,10 +48,9 @@ Estou cursando Sistemas de Informações pelo Centro Universitário de Valença 
 -  Sou completamente apaixonada por gatos e games, jogo League of Legends há 7 anos e é atualmente meu jogo favorito.
 -  Gosto muito de dias quentes, praia e muito sol. 
 -  Matemática é minha paixão desde que aprendi 2+2.
-<br>
+
  <br>
- <br>
-<br>
+ 
 
 </div>
 
@@ -58,8 +58,8 @@ Estou cursando Sistemas de Informações pelo Centro Universitário de Valença 
 
 <p align="center">
 <a href="https://github.com/thayanamr">
-  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thayanamr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>&nbsp;
-  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thayanamr&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thayanamr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>&nbsp;
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thayanamr&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
