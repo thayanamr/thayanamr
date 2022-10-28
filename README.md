@@ -19,7 +19,7 @@
 
 ## Olá Devs!
 
-Tenho 25 anos, sou formada em Engenharia Civil pelo Centro Universitário Geraldo di Biase. Moro em Valença/RJ e atualmente comecei minha tragetória na programação.
+Tenho 25 anos, sou formada em Engenharia Civil pelo Centro Universitário Geraldo di Biase. Moro em Valença/RJ e atualmente comecei minha trajetória na programação.
 Estou cursando Sistemas de Informações pelo Centro Universitário de Valença - UNIFAA e também um curso de Web Developer pela Udemy. Por aqui espero mostrar a vocês toda a minha evolução e aprendizados. Sejam bem-vindos! ❤
 <br>
 
