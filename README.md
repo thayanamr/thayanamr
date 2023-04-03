@@ -19,8 +19,8 @@
 
 ## Olá Devs!
 
-Tenho 25 anos, sou formada em Engenharia Civil pelo Centro Universitário Geraldo di Biase. Moro em Valença/RJ e atualmente comecei minha trajetória na programação.
-Estou cursando Sistemas de Informações pelo Centro Universitário de Valença - UNIFAA e também um curso de Web Developer pela Udemy. Por aqui espero mostrar a vocês toda a minha evolução e aprendizados. Sejam bem-vindos! ❤
+Tenho 26 anos, sou formada em Engenharia Civil pelo Centro Universitário Geraldo di Biase. Moro em Valença/RJ e atualmente comecei minha trajetória na programação.
+Estou cursando Desenvolvimento de Software pela Cubos Academy. Por aqui espero mostrar a vocês toda a minha evolução e aprendizados. Sejam bem-vindos! ❤
 <br>
 
 <div>
@@ -34,20 +34,16 @@ Estou cursando Sistemas de Informações pelo Centro Universitário de Valença 
 
 ### Estou aprendendo
 
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></code>
+
 <br>
  
 ###  Mais sobre mim 
 
 
--  Meu primeiro contato com programação foi devido ao site Tumblr com 13 anos, lá eu era apaixonada por alterar os temas do site e foi meu primeiro contato com HTML.
--  Sou completamente apaixonada por gatos e games, jogo League of Legends há 7 anos e é atualmente meu jogo favorito.
+-  Meu primeiro contato com programação foi devido ao site Tumblr com 13 anos, lá eu gostava de alterar os temas do site e foi meu primeiro contato com HTML.
+-  Sou completamente apaixonada por matemática, gatos e games, jogo League of Legends há 8 anos e é atualmente meu jogo favorito.
 -  Gosto muito de dias quentes, praia e muito sol. 
--  Matemática é minha paixão desde que aprendi 2+2.
 
  <br>
  <br>
