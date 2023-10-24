@@ -40,8 +40,8 @@ Tenho 26 anos, sou formada em Engenharia Civil pelo Centro Universitário Gerald
 ###  Mais sobre mim 
 
 
-› Tive meu primeiro contato com programação aos 13 anos, quando personalizei temas no Tumblr usando HTML.
-› Sou uma entusiasta de matemática, gatos e games, especialmente League of Legends, que jogo há 8 anos e é meu favorito.
+› Tive meu primeiro contato com programação aos 13 anos, quando personalizei temas no Tumblr usando HTML.<br>
+› Sou uma entusiasta de matemática, gatos e games, especialmente League of Legends, que jogo há 8 anos e é meu favorito.<br>
 › Adoro dias ensolarados, praia e calor. ☀️🏖️
 
  <br>
