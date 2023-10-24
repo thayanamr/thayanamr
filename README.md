@@ -10,7 +10,7 @@
 
 <a href="https://www.instagram.com/thayanamachado_/" target="_blank"><img  alt="Instagram" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /> &nbsp;
 <a href="https://twitter.com/thaymrz" target="_blank"><img  alt="Twitter" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" /> &nbsp;
-<a href="https://www.linkedin.com/in/thayana-machado-101264149/" target="_blank"><img  alt="LinkedIn" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://www.linkedin.com/in/thayana-machado" target="_blank"><img  alt="LinkedIn" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 
 </div>
 
@@ -19,8 +19,7 @@
 
 ## Olá Devs!
 
-Tenho 26 anos, sou formada em Engenharia Civil pelo Centro Universitário Geraldo di Biase. Moro em Valença/RJ e atualmente comecei minha trajetória na programação.
-Estou cursando Desenvolvimento de Software pela Cubos Academy. Por aqui espero mostrar a vocês toda a minha evolução e aprendizados. Sejam bem-vindos! ❤
+Tenho 26 anos, sou formada em Engenharia Civil pelo Centro Universitário Geraldo di Biase e moro em Valença/RJ. Atualmente, estou embarcando na minha jornada de programação enquanto curso Desenvolvimento de Software na Cubos Academy. Venha comigo nesta emocionante aventura, onde compartilharei meu crescimento e novos conhecimentos. Sejam todos bem-vindos!
 <br>
 
 <div>
@@ -30,20 +29,20 @@ Estou cursando Desenvolvimento de Software pela Cubos Academy. Por aqui espero m
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<br>
-
-### Estou aprendendo
-
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /></code>
 
 <br>
+
  
 ###  Mais sobre mim 
 
 
--  Meu primeiro contato com programação foi devido ao site Tumblr com 13 anos, lá eu gostava de alterar os temas do site e foi meu primeiro contato com HTML.
--  Sou completamente apaixonada por matemática, gatos e games, jogo League of Legends há 8 anos e é atualmente meu jogo favorito.
--  Gosto muito de dias quentes, praia e muito sol. 
+› Tive meu primeiro contato com programação aos 13 anos, quando personalizei temas no Tumblr usando HTML.
+› Sou uma entusiasta de matemática, gatos e games, especialmente League of Legends, que jogo há 8 anos e é meu favorito.
+› Adoro dias ensolarados, praia e calor. ☀️🏖️
 
  <br>
  <br>
